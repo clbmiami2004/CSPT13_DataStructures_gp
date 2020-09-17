@@ -126,4 +126,3 @@ print(f"{n1.next_node.value}, {n4}")  # I'm not using the methods, using the var
 # l.remove_tail()
 # print(l.tail.value)
 # print(l.tail)
-
